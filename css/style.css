@@ -1,5 +1,3 @@
-html { background: url(../images/bg.png) repeat; min-height: 100%; box-sizing: border-box; font: 12px/2 Helvetica Neue, Helvetica, Arial, sans-serif; color: #888; }
-::-webkit-input-placeholder { color: #bbb; }
 
 #login { border-radius: 5px; margin: 120px auto; width: 300px; -webkit-perspective: 1000; }
 #login h1 { position: relative; margin: 0; padding: 15px; border: 1px solid rgba(0,0,0,.3); border-radius: 5px 5px 0 0; font-size: 16px; text-align: center; color: #fff; text-shadow: 0 1px 1px rgba(0,0,0,.2); background-color: #3f7eb6; box-shadow: inset 0 1px rgba(255,255,255,.3); 
@@ -46,7 +44,7 @@ html { background: url(../images/bg.png) repeat; min-height: 100%; box-sizing: b
 
 #login p.login-msg { display: none; margin: 0 0 5px; font-size: 13px; font-weight: bold; color: #C4550B; }
 
-/* Стили бара vladmaxi, можно удалить */
+/* Г‘ГІГЁГ«ГЁ ГЎГ Г°Г  vladmaxi, Г¬Г®Г¦Г­Г® ГіГ¤Г Г«ГЁГІГј */
 .vladmaxi-top{
 	line-height: 24px;
 	font-size: 11px;
