@@ -11,7 +11,7 @@
 <meta name="keywords" content="Купить компьютер,Девайсы,BuyDevice"/>
 <meta name="description" content=""/>
 <meta name="og:title" content="" />
-     <link rel="stylesheet" href="style.css" media="screen" type="text/css" />
+<link rel="stylesheet" href="style.css" media="screen" type="text/css" />
     <link rel="icon" href="http://vladmaxi.net/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="http://vladmaxi.net/favicon.ico" type="image/x-icon">
 </head>
@@ -29,7 +29,7 @@
             top: 0.1vh;"
          ><big><strong> <em>BuyDevice</em></strong></big></h2>
    </div>
-<div class="form-login">
+    <div class="form-login">
       <h1>Авторизация</h1>
       <fieldset>
         <form>
@@ -40,3 +40,5 @@
         <p>Войти через: <span class="social fb">Facebook</span> <span class="social gp">Google +</span></p>
         <p><a href="#" class="flipper">Нет аккаунта? Регистрация.</a><br>
         <a href="#">Забыли пароль?</a></p>
+      </fieldset>
+    </div>
