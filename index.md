@@ -36,7 +36,7 @@
       <fieldset>
       <p class="login-msg"></p>
         <form>
-          <input type="email" placeholder="Введите Ваш Логин или E-mail" required />
+          <input type="email" placeholder="Введите Ваш E-mail" required />
           <input type="password" placeholder="Введите Ваш пароль" required />
           <input type="submit" value="Войти" />
         </form>
