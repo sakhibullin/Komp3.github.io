@@ -12,7 +12,6 @@
 <meta name="description" content=""/>
 <meta name="og:title" content="" />
 <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
-<link rel="shortcut icon" href="http://vladmaxi.net/favicon.ico" type="image/x-icon">
 </head>
 <body>
 <div style="
