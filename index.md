@@ -39,4 +39,4 @@
           <a href="https://sakhibullin.github.io/Kompa.github.io/#"><input type="submit" value="Войти" /></a>
         </form>
         <p><a href="https://sakhibullin.github.io/Komp2.github.io/#" class="flipper">Нет аккаунта? Регистрация.</a><br>
-        <a href="#">Забыли пароль?</a></p>
+        <a href="https://sakhibullin.github.io/Komp3.github.io/?">Забыли пароль?</a></p>
