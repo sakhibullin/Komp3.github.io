@@ -33,7 +33,7 @@
       <h1>Авторизация</h1>
       <fieldset>
       <p class="login-msg"></p>
-        <form action=“https://sakhibullin.github.io/Kompa.github.io/#” method=“post”>
+        <form>
           <input type="email" placeholder="Введите Ваш E-mail" required />
           <input type="password" placeholder="Введите Ваш пароль" required />
           <input type="submit" value="Войти" />
