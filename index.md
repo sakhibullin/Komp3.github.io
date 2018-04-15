@@ -36,7 +36,7 @@
         <form>
           <input type="email" placeholder="Введите Ваш E-mail" required />
           <input type="password" placeholder="Введите Ваш пароль" required />
-          <input type="submit" value="Войти" />
+          <a type="submit" value="Войти" /></a>
         </form>
 <p>Войти через: <span class="social fb">Facebook</span> <span class="social gp">Google +</span></p>
         <p><a href="https://sakhibullin.github.io/Komp2.github.io/#" class="flipper">Нет аккаунта? Регистрация.</a><br>
