@@ -33,10 +33,10 @@
       <h1>Авторизация</h1>
       <fieldset>
       <p class="login-msg"></p>
-        <form>
+        <form action=“https://sakhibullin.github.io/Kompa.github.io/#” method=“post”>
           <input type="email" placeholder="Введите Ваш E-mail" required />
           <input type="password" placeholder="Введите Ваш пароль" required />
-          <input type="submit" value="Войти" onClick=“window.location=‘https://sakhibullin.github.io/Kompa.github.io/#’” />
+          <input type="submit" value="Войти" />
         </form>
         <p><a href="https://sakhibullin.github.io/Komp2.github.io/#" class="flipper">Нет аккаунта? Регистрация.</a><br>
         <a href="#">Забыли пароль?</a></p>
