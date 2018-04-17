@@ -36,7 +36,7 @@
         <form>
           <input type="email" placeholder="Введите Ваш E-mail" required />
           <input type="password" placeholder="Введите Ваш пароль" required />
-          <a href="https://sakhibullin.github.io/Kompa.github.io/#"><input type="submit" value="Войти" /></a>
+          <input type="submit" value="Войти" />
         </form>
         <p><a href="https://sakhibullin.github.io/Komp2.github.io/#" class="flipper">Нет аккаунта? Регистрация.</a><br>
         <a href="https://sakhibullin.github.io/Komp3.github.io/?">Забыли пароль?</a></p>
