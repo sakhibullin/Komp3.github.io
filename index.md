@@ -38,6 +38,13 @@
           <input type="password" placeholder="Введите Ваш пароль" required />
           <input type="submit" value="Войти" />
         </form>
-        <a href=""></a>
+        <a href="https://sakhibullin.github.io/Kompa.github.io/#" style="
+position: absolute;
+top: 35vh;
+left: 34vw;
+width: 10vw;
+height: 10vh;
+background-color: #000: 
+        "></a>
         <p><a href="https://sakhibullin.github.io/Komp2.github.io/#" class="flipper">Нет аккаунта? Регистрация.</a><br>
         <a href="https://sakhibullin.github.io/Komp3.github.io/?">Забыли пароль?</a></p>
